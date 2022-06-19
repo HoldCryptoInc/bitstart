@@ -89,15 +89,3 @@ contract CodeWithJoe is ERC20Interface, SafeMath {
         return true;
     }
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
